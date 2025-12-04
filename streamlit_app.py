@@ -5,7 +5,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from xgboost import XGBRegressor
 from sklearn.ensemble import RandomForestRegressor
 
-st.title("Universal Sales Forecasting App")
+st.title("Universal Sales Forecasting App 1 -> 3 Years")
 st.markdown("Upload any sales dataset and the app will automatically clean, group, prepare, train, and forecast.")
 
 # File uploader
